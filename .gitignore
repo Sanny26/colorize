@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+input/
+output/
+dataset.zip
+model.*
+preprocess.py
+script.sh
+script1.sh
+test/
+test_output/
+
